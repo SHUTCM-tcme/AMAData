@@ -1,0 +1,59 @@
+Column: 15
+Axis: Z
+Fallback Frames: 1
+
+Inflection point type	Point1	Point2	Point3	Point4	Point5	Point6	Point7	Point8	Point9
+Crests	118	171	238	308	385	472	537	599	667
+Troughs	144	217	288	356	433	505	578	645	
+
+Crest Points	Coordinate (x)	Coordinate (y)	Coordinate (z)
+Point1	6.605881	6.114807	5.423177
+Point2	6.54646	6.124454	5.53747
+Point3	6.546498	6.152362	5.491465
+Point4	6.528465	6.073086	5.40155
+Point5	6.551246	6.120564	5.30947
+Point6	6.453442	6.092552	5.552574
+Point7	6.548374	5.924042	5.422283
+Point8	6.579044	6.042987	5.345111
+Point9	6.524449	5.966616	5.360835
+
+Trough Points	Coordinate (x)	Coordinate (y)	Coordinate (z)
+Point1	6.910577	5.608377	4.290255
+Point2	6.870063	5.677276	4.27578
+Point3	6.710036	5.735567	4.271596
+Point4	6.74664	5.60434	4.08788
+Point5	6.823689	5.617408	4.394603
+Point6	6.912385	5.344617	3.926687
+Point7	6.788515	5.561672	4.178207
+Point8	6.803647	5.478707	4.038368
+
+Parameters	T1 - Amplitude	T1 - Velocity	T2 - Amplitude	T2 - Velocity
+thumb base joint right X	0.0993	0.1436	0.0762	0.1813
+thumb base joint right Y	0.2234	0.3419	0.2261	0.5198
+thumb base joint right Z	0.4883	0.7394	0.4853	1.1567
+thumb end joint right X	0.0706	0.1182	0.0819	0.1831
+thumb end joint right Y	0.3962	0.598	0.3977	0.9228
+thumb end joint right Z	0.9205	1.3845	0.919	2.1825
+thumb tip right X	0.2758	0.4267	0.2859	0.6618
+thumb tip right Y	0.5021	0.7617	0.4836	1.1385
+thumb tip right Z	1.2525	1.8739	1.2447	2.9611
+forefinger base joint right X	0.3144	0.4467	0.282	0.699
+forefinger base joint right Y	0.5736	0.8672	0.5741	1.3525
+forefinger base joint right Z	0.4124	0.6247	0.4078	0.9601
+forefinger middle joint right X	0.3487	0.5029	0.3254	0.7958
+forefinger middle joint right Y	1.0655	1.583	1.0808	2.5732
+forefinger middle joint right Z	0.8083	1.223	0.8044	1.8996
+forefinger tip right X	0.087	0.1469	0.0979	0.2217
+forefinger tip right Y	0.6506	0.9741	0.6556	1.5473
+forefinger tip right Z	0.6683	1.0045	0.6553	1.537
+
+Finger Points	Action 1 - Amplitude(cm)	Action 1 - Velocity(cm/s)	Action 2 - Amplitude(cm)	Action 2 - Velocity(cm/s)
+thumb base joint	0.56	0.8474	0.5475	1.3297
+thumb end joint	1.0138	1.526	1.0088	2.4262
+thumb tip	1.3825	2.075	1.3675	3.3042
+forefinger base joint	0.79	1.1827	0.765	1.8794
+forefinger middle joint	1.3925	2.0795	1.3913	3.3247
+forefinger tip	0.9425	1.4146	0.935	2.2381
+
+Action 1 Time(s)	Action 2 Time(s)	Action 1 Variance	Action 2 Variance	Crest Radius(CR)(cm)	Trough Radius(TR)(cm)
+0.8048	0.5024	0.1325	0.1047	0.1559	0.3588

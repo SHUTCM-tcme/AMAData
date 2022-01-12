@@ -1,0 +1,51 @@
+Column: 14
+Axis: Y
+Fallback Frames: 0
+
+Inflection point type	Point1	Point2	Point3	Point4	Point5	Point6	Point7	Point8	Point9
+Crests	116	223	328	431	545	648	738	855	942
+Troughs	134	244	364	452	560	664	781	873	
+
+Crest Points	Coordinate (x)	Coordinate (y)	Coordinate (z)
+Point1	4.737564	3.416158	6.608245
+Point2	4.879723	3.622006	6.395216
+Point3	4.878045	3.398376	6.334624
+Point4	4.895302	3.428212	6.182204
+Point5	4.883141	3.661822	6.200062
+Point6	5.025858	3.617735	6.316452
+Point7	5.013111	3.785971	6.055957
+Point8	4.823926	3.93087	6.069419
+Point9	4.891007	3.800612	6.035455
+
+Trough Points	Coordinate (x)	Coordinate (y)	Coordinate (z)
+Point1	4.308934	2.331711	6.294218
+Point2	4.519058	2.420066	6.151328
+Point3	4.452511	2.433871	6.147933
+Point4	4.464447	2.510239	6.044433
+Point5	4.663427	2.515922	6.110292
+Point6	4.7386	2.460455	6.047199
+Point7	4.846681	2.612494	6.009403
+Point8	4.650644	2.681563	5.962694
+
+Parameters	T1 - Amplitude	T1 - Velocity	T2 - Amplitude	T2 - Velocity
+thumb base joint right X	0.2444	0.7167	0.2832	0.208
+thumb base joint right Y	0.3516	1.0214	0.3466	0.2633
+thumb base joint right Z	0.3187	0.939	0.268	0.2035
+thumb end joint right X	0.26	0.7405	0.2915	0.2165
+thumb end joint right Y	0.8462	2.4653	0.8709	0.6636
+thumb end joint right Z	0.1857	0.5646	0.1158	0.0831
+thumb tip right X	0.3115	0.8957	0.3364	0.2506
+thumb tip right Y	1.1119	3.2506	1.1599	0.8838
+thumb tip right Z	0.1743	0.5297	0.1027	0.0737
+forefinger base joint right X	0.135	0.3888	0.1353	0.1056
+forefinger base joint right Y	0.0455	0.1349	0.0805	0.0638
+forefinger base joint right Z	0.0648	0.171	0.0623	0.0474
+forefinger middle joint right X	0.1754	0.5112	0.2199	0.1642
+forefinger middle joint right Z	0.1958	0.5374	0.197	0.152
+forefinger middle joint right Y	0.3104	0.9155	0.2507	0.1802
+forefinger tip right X	0.8709	2.5445	0.8351	0.6374
+forefinger tip right Y	0.1114	0.3121	0.1244	0.1
+forefinger tip right Z	0.2984	0.913	0.2578	0.1948
+
+T1 Time	T2 Time	T1 Variance	T2 Variance	Crest Variance	Trough Variance	Crest Radius(CR)	Trough Radius(TR)	CR Variance	TR Variance
+0.4476	1.519	0.1601	0.155	0.178	0.104	0.4491	0.3742	0.1103	0.0945
